@@ -1,0 +1,38 @@
+body{
+  
+    padding-top:75px; /* Coloquei esse padding pois a navegação sobrepoem os itens */
+    
+}
+
+
+
+.box-shadow{
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.05),  
+    0 4px 8px 0 rgba(0,0,0,.05);
+}
+
+.icone{
+    height: 100px;
+}
+
+#img-quote{
+    background: url(/img/bg-quote.jpg) center center;
+    background-size: cover;
+}
+
+.edbtn{
+    margin-bottom:150px
+}
+
+@media (max-width: 767px)
+{
+    .display-4{
+
+        font-size: 2.5rem;
+    }
+    body{
+        padding: 0;
+    
+    }
+
+}
