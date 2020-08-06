@@ -1,7 +1,7 @@
-Caravan viagens
+# Caravan viagens
 
 Projeto feito durante meus estudos de bootstrap
 
-Tecnologias
+# Tecnologias
 
 Javascript, HTML, CSS e Bootstrap
